@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream.h>
 int main() {
     int num;
     cout << "Enter an integer: ";
